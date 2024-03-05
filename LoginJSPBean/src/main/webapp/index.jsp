@@ -11,6 +11,7 @@
 		if("POST".equalsIgnoreCase(request.getMethod()) &&
 			request.getParameter("submit") != null) {
 	%>
+			<!-- Added comment to practive GIT Commands -->
 			<!-- Form was submitted -->
 			<jsp:useBean id="loginBean" class="packt.book.jee_eclipse.ch2.bean.LoginBean">
 <%-- 				<jsp:setProperty name="loginBean" property="*" /> --%>
