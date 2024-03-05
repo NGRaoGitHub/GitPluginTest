@@ -1,6 +1,6 @@
 package packt.book.jee_eclipse.ch2.bean;
 
-// Bean Class
+// Bean Class - sample class for JSP
 public class LoginBean {
 	private String userName;
 	private String password;
